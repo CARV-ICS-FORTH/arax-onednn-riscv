@@ -1,0 +1,4 @@
+shm_file /dev/uio0
+shm_size 67108864
+shm_off 4096
+shm_trunc 0

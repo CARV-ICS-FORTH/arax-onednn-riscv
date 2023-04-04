@@ -1,0 +1,13 @@
+{
+	"paths":[
+		"./OneDnn/build/cntrl"		
+	],
+	"groups":
+	{
+		"cpu":{
+			"accels":[
+				{"arch":"CPU"}
+			]
+		}
+	}
+}
